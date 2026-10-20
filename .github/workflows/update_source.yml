@@ -1,1 +1,24 @@
-111
+name: Auto fetch source
+run-name: Auto fetch source
+on:
+  schedule:
+    - cron: '0 20 * * *'
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch-source:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Run download script
+        shell: powershell
+        run: .\txt.ps1
+
+      - name: Commit & push changes
+        shell: powershell
+        run: .\commit_push.ps1
