@@ -284,21 +284,21 @@ http://bztv.tvbus.cc:8081/cdnlive/wsjk.m3u8
 
 
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/四川.png" group-title="本地频道",四川卫视
-http://116.ltd:1905/u/6MfhoEa8WCCbL5XKWQoVjMmj/proxy/sichuan-1016553.m3u8
+http://175.152.156.119:8888/rtp/239.0.0.1:5140
 #EXTINF:-1 tvg-id="四川新闻" tvg-name="四川新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/SCTV4.png" group-title="本地频道",四川新闻
-http://116.ltd:1905/u/6MfhoEa8WCCbL5XKWQoVjMmj/proxy/sichuan-1844567123037646849.m3u8
+http://175.152.156.119:8888/rtp/239.0.0.4:5140
 #EXTINF:-1 tvg-id="四川经济" tvg-name="四川经济" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/SCTV2.png" group-title="本地频道",四川经济
-http://116.ltd:1905/u/6MfhoEa8WCCbL5XKWQoVjMmj/proxy/sichuan-1016554.m3u8
+http://175.152.156.119:8888/rtp/239.0.0.2:5140
 #EXTINF:-1 tvg-id="四川文化旅游" tvg-name="文化旅游" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/SCTV3.png" group-title="本地频道",文化旅游
-http://116.ltd:1905/u/6MfhoEa8WCCbL5XKWQoVjMmj/proxy/sichuan-1016555.m3u8
+http://175.152.156.119:8888/rtp/239.0.0.3:5140
 #EXTINF:-1 tvg-id="四川乡村" tvg-name="四川乡村" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/Sichuan6.png" group-title="本地频道",四川乡村
-http://116.ltd:1905/u/6MfhoEa8WCCbL5XKWQoVjMmj/proxy/sichuan-1016560.m3u8
+http://175.152.156.119:8888/rtp/239.0.0.8:5140
 #EXTINF:-1 tvg-id="四川影视文艺" tvg-name="四川影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/sctv-5.png" group-title="本地频道",四川影视
-http://116.ltd:1905/u/6MfhoEa8WCCbL5XKWQoVjMmj/proxy/sichuan-1016557.m3u8
+http://175.152.156.119:8888/rtp/239.0.0.5:5140
 #EXTINF:-1 tvg-id="四川妇女儿童" tvg-name="四川妇女" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/Sichuan5.png" group-title="本地频道",四川妇儿
-http://116.ltd:1905/u/6MfhoEa8WCCbL5XKWQoVjMmj/proxy/sichuan-1016558.m3u8
+http://175.152.156.119:8888/rtp/239.0.0.7:5140
 #EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/Sichuan.png" group-title="本地频道",峨眉电影
-http://182.140.125.47:808/hls/58/index.m3u8
+http://175.152.156.119:8888/rtp/239.0.0.9:5140
 
 #EXTINF:-1 tvg-id="成都新闻" tvg-name="成都新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CDTV1.png" group-title="本地频道",成都新闻
 http://45.192.97.170:8880/play/3106.m3u8
