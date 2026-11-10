@@ -124,9 +124,14 @@ HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 
 卫生健康,#genre#
-CCTV卫生健康1,http://173.208.212.130:8181/720p/wsjk.m3u8
-CCTV卫生健康2,http://173.208.212.130:8181/1080p/wsjk.m3u8
-CCTV卫生健康3,http://198.204.228.26/live/wsjk.m3u8
+CCTV卫生健康1,http://bztv.tvbus.cc:8081/cdnlive/wsjk.m3u8
+CCTV卫生健康2,http://173.208.212.130:8181/720p/wsjk.m3u8
+CCTV卫生健康3,http://173.208.212.130:8181/1080p/wsjk.m3u8
+CCTV卫生健康4,http://198.204.228.26/live/wsjk.m3u8
+CCTV卫生健康5,http://107.150.60.122/live/wsjk.m3u8
+CCTV卫生健康6,http://207.56.13.146:81/cdnlive/wsjk.m3u8
+CCTV卫生健康7,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+CCTV卫生健康8,http://104.152.209.49:8181/720p/wsjk.m3u8
 
 央视频,#genre#
 CCTV-1HD,http://107.150.60.122/live/cctv1hd.m3u8
