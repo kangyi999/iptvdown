@@ -41,6 +41,7 @@ TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 寰宇新聞(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1222
 disconery探索,https://p-drm.aliiptv.com/live/Discovery.m3u8?verify=1790056187-L7qo-VC4FaVADdbd2gWY6ZysxHyv-mgIAPgQ02KM37U
 动物星球,http://stream.mcquack.net/114/index.m3u8
+動物星球頻道,http://125.227.210.55:3054/VideoInput/play.ts
 BBC纪录,https://play-drm.aliiptv.com/live/BBCLifestyle.m3u8?verify=1790056258-937Ogv46aANf4VYzcc58e28264Q0hXi7qWICUV5W0VU
 
 法国FTV,https://1722840738.rsc.cdn77.org/manifest.m3u8

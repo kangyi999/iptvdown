@@ -2,44 +2,6 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://tv.mxdyeah.top/epgphp/t.xml,https://fy.188766.xyz/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="央视频道",CCTV 1 综合
-http://tv.305362.xyz/zhth/tv.php?f=426fa8&id=b371c1
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV2.png" group-title="央视频道",CCTV 2 财经
-http://tv.305362.xyz/zhth/tv.php?f=426fa8&id=966b93
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV3.png" group-title="央视频道",CCTV 3 综艺
-http://tv.305362.xyz/zhth/tv.php?f=426fa8&id=11659e
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="央视频道",CCTV 4 中文国际
-http://tv.305362.xyz/zhth/tv.php?f=426fa8&id=278a0e
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-title="央视频道",CCTV 5 体育
-http://tv.305362.xyz/zhth/tv.php?f=426fa8&id=494845
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5+.png" group-title="央视频道",CCTV 5+ 体育赛事
-http://tv.305362.xyz/zhth/tv.php?f=426fa8&id=677e91
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV6.png" group-title="央视频道",CCTV 6 电影
-http://tv.305362.xyz/zhth/tv.php?f=426fa8&id=a37467
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" group-title="央视频道",CCTV 7 国防军事
-http://tv.305362.xyz/zhth/tv.php?f=426fa8&id=243147
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV8.png" group-title="央视频道",CCTV 8 电视剧
-http://tv.305362.xyz/zhth/tv.php?f=426fa8&id=e9583b
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" group-title="央视频道",CCTV 9 纪录
-http://tv.305362.xyz/zhth/tv.php?f=426fa8&id=e7b231
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV10.png" group-title="央视频道",CCTV 10 科教
-http://tv.305362.xyz/zhth/tv.php?f=426fa8&id=d49690
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV11.png" group-title="央视频道",CCTV 11 戏曲
-http://tv.305362.xyz/zhth/tv.php?f=426fa8&id=c99493
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV12.png" group-title="央视频道",CCTV 12 社会与法
-http://tv.305362.xyz/zhth/tv.php?f=426fa8&id=50471c
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV13.png" group-title="央视频道",CCTV 13 新闻
-http://tv.305362.xyz/zhth/tv.php?f=426fa8&id=70968b
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV14.png" group-title="央视频道",CCTV 14 少儿
-http://tv.305362.xyz/zhth/tv.php?f=426fa8&id=43ab16
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV15.png" group-title="央视频道",CCTV 15 音乐
-http://tv.305362.xyz/zhth/tv.php?f=426fa8&id=8476d6
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV16.png" group-title="央视频道",CCTV 16 奥林匹克
-http://1.70.69.140:3000/cctv16/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV17.png" group-title="央视频道",CCTV 17 农村农业
-http://tv.305362.xyz/zhth/tv.php?f=426fa8&id=fea1e7
-
-
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="央视频道",CCTV 1 综合
 http://1.70.69.140:3000/cctv1/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV2.png" group-title="央视频道",CCTV 2 财经
 http://1.70.69.140:3000/cctv2/playlist.m3u8
