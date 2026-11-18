@@ -10,7 +10,7 @@
 
 无线新闻台0,http://cc.123.rr.kg/163189/wxxw
 无线新闻台1,http://cc.123.rr.kg/163189/wxxwt
-
+无线新闻台2,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/476926.m3u8
 无线新闻台3,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/wxxw.flv
 
 
@@ -51,7 +51,8 @@ TVB娱乐新闻,http://cc.123.rr.kg/163189/ylxw
 凤凰香港0,http://cc.123.rr.kg/163189/fhhk
 凤凰香港2,http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
 
-
+NOW爆谷,rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-baogu
+NOW星影,rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-xingying
 
 
 
