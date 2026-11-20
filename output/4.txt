@@ -1,12 +1,9 @@
 ﻿广东凤凰,#genre#
 汕头综合,http://2.0754.eu.org/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
 汕头经济,http://2.0754.eu.org/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&down=1
-汕头新闻综合,http://nn.7x9d.cn/91tv1.php?e=gdsttv1&line=0
-汕头新闻综合,http://nn.7x9d.cn/91tv1.php?e=gdsttv1&line=1
-汕头新闻综合,http://nn.7x9d.cn/91tv1.php?e=gdsttv1&line=2
-汕头经济生活,http://nn.7x9d.cn/91tv1.php?e=gdsttv2&line=0
-汕头经济生活,http://nn.7x9d.cn/91tv1.php?e=gdsttv2&line=1
-汕头经济生活,http://nn.7x9d.cn/91tv1.php?e=gdsttv2&line=2
+汕头综合,http://www.3344.uk:8888/udp/239.253.43.45:5146
+汕头经济,http://www.3344.uk:8888/udp/239.253.43.46:5146
+潮州综合,http://www.3344.uk:8888/udp/239.253.43.70:5146
 
 广东新闻,http://173.208.234.146/live/gdxw.m3u8
 广东新闻,http://74.91.26.218:82/live/gdxw.m3u8
