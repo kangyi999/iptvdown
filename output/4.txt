@@ -1,4 +1,4 @@
-﻿广东凤凰,#genre#
+﻿广东汕头,#genre#
 汕头综合,http://2.0754.eu.org/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
 汕头经济,http://2.0754.eu.org/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&down=1
 汕头综合,http://www.3344.uk:8888/udp/239.253.43.45:5146
@@ -75,6 +75,7 @@
 大湾区卫视(海外版),https://xymm.ccwu.cc/8520/relay/gdtv-46.m3u8
 岭南戏曲,https://xymm.ccwu.cc/8520/relay/gdtv-15.m3u8
 
+香港频道,#genre#
 
 凤凰中文,http://cc.123.rr.kg/163189/fhzw
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
