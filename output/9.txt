@@ -13,7 +13,9 @@
 凤凰资讯1080,http://cc.123.rr.kg/163189/fhzx
 凤凰香港1080,http://cc.123.rr.kg/163189/fhhk
 翡翠台,http://cc.123.rr.kg/163189/fct
+N新闻台,http://66.187.76.101:9321/live/nownews.m3u8?h=c322e63865564d25bcb795c10e7d374c&e=1796111788
 N新闻台,https://fast.hidns.vip/163189/now
+
 HOY资讯台,https://fast.hidns.vip/163189/hoy78
 千禧经典台,https://cdn3.indevs.in/stream/live/tvbc/
 无线新闻台,rtmp://school.3class.cc/live/yifaTV-125
@@ -21,10 +23,7 @@ HOY资讯台,https://fast.hidns.vip/163189/hoy78
 无线新闻台1080,http://cc.123.rr.kg/163189/wxxw
 TVB娱乐新闻台1080,http://cc.123.rr.kg/163189/ylxw
 TVB星河1080,http://cc.123.rr.kg/163189/tvbxh
-NOW爆谷,rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-baogu
-NOW星影,rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-xingying
-NOW华剧,rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-huaju
-NOW紫金,rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-zijin
+
 
 
 凤凰中文,http://173.208.234.146/live/fhzw.m3u8
@@ -40,15 +39,13 @@ NOW紫金,rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-zijin
 中天新闻,https://my5353.com/ztxw
 中天新闻2,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
-
+寰宇新聞台,http://50.7.233.114:8278/huanyuxinwen_twn/playlist.m3u8
 寰宇新闻,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/hyxw.flv
 寰宇新闻,http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=c37a8a6fedcfb3a4
-寰宇新聞(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1222
-disconery探索,https://p-drm.aliiptv.com/live/Discovery.m3u8?verify=1790056187-L7qo-VC4FaVADdbd2gWY6ZysxHyv-mgIAPgQ02KM37U
-动物星球,http://stream.mcquack.net/114/index.m3u8
-動物星球頻道,http://125.227.210.55:3054/VideoInput/play.ts
-BBC纪录,https://play-drm.aliiptv.com/live/BBCLifestyle.m3u8?verify=1790056258-937Ogv46aANf4VYzcc58e28264Q0hXi7qWICUV5W0VU
-
+動物星球,http://66.187.76.101:9321/live/dwxq.m3u8?h=165f818777e32a99c7d01b91905bcb62&e=1796111788
+动物星球,http://50.7.233.114:8278/animalplanet_twn/playlist.m3u8
+BBC Lifestyle,http://66.187.76.101:9321/live/bbclifestyle.m3u8?h=bd85553d5ec70ebf1dc835ed389521d4&e=1796111788
+Discovery 探索,http://66.187.76.101:9321/live/discovery.m3u8?h=49493e442cc0b4db11e17546eb8ab47e&e=1796111788
 法国FTV,https://1722840738.rsc.cdn77.org/manifest.m3u8
 法国时尚,https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 法国fashion,https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be/?X-Plex-Token=LaJ4zAWLyADt-3moyHdZ
@@ -455,65 +452,67 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 电影最TOP,video://https://www.huya.com/11774959
 科幻系列 硬核浪漫,video://https://www.huya.com/11352895
 
-粤语电影,https://isus.cc/php/huya.php?id=11352894
-荒野求生,https://isus.cc/php/huya.php?id=593667
-李连杰功夫大片,https://isus.cc/php/huya.php?id=11342390
-洪金宝系列,https://isus.cc/php/huya.php?id=11342427
-成龙,https://isus.cc/php/huya.php?id=11342386
-刘德华电影,https://isus.cc/php/huya.php?id=11342424
-甄子丹,https://isus.cc/php/huya.php?id=11352935
-电影,https://isus.cc/php/huya.php?id=11352893
-重案六组,https://isus.cc/php/huya.php?id=11336587
-案发现场,https://isus.cc/php/huya.php?id=11352975
-动作悬疑片,https://isus.cc/php/huya.php?id=11602077
-狄仁杰,https://isus.cc/php/huya.php?id=11352958
-谍影重重,https://isus.cc/php/huya.php?id=22889219
-老电影,https://isus.cc/php/huya.php?id=23017124
-系列,https://isus.cc/php/huya.php?id=22897556
-巨石强森系列,https://isus.cc/php/huya.php?id=21059581
-杰森·斯坦森,https://isus.cc/php/huya.php?id=21059588
-灾难大片,https://isus.cc/php/huya.php?id=11352887
-怪兽系列 巨蟒和大白鲨来袭,https://isus.cc/php/huya.php?id=21059554
-高清修复看经典,https://isus.cc/php/huya.php?id=24380318
-经典的破案爱情,https://isus.cc/php/huya.php?id=11336578
-汤姆克鲁斯史泰龙,https://isus.cc/php/huya.php?id=11352959
-大片全明星阵容,https://isus.cc/php/huya.php?id=21059563
-大片,https://isus.cc/php/huya.php?id=11352869
-武僧电影·天下武功出少林,https://isus.cc/php/huya.php?id=11602055
-武侠·帅到飞起,https://isus.cc/php/huya.php?id=11352897
-枪林弹雨战争片,https://isus.cc/php/huya.php?id=22295876
-电影最TOP,https://isus.cc/php/huya.php?id=11774959
-科幻系列 硬核浪漫,https://isus.cc/php/huya.php?id=11352895
+粤语电影,https://yahu.445569.xyz/live/11352894
+荒野求生,https://yahu.445569.xyz/live/593667
+李连杰功夫大片,https://yahu.445569.xyz/live/11342390
+洪金宝系列,https://yahu.445569.xyz/live/11342427
+成龙,https://yahu.445569.xyz/live/11342386
+刘德华电影,https://yahu.445569.xyz/live/11342424
+甄子丹,https://yahu.445569.xyz/live/11352935
+电影,https://yahu.445569.xyz/live/11352893
+重案六组,https://yahu.445569.xyz/live/11336587
+案发现场,https://yahu.445569.xyz/live/11352975
+动作悬疑片,https://yahu.445569.xyz/live/11602077
+狄仁杰,https://yahu.445569.xyz/live/11352958
+谍影重重,https://yahu.445569.xyz/live/22889219
+老电影,https://yahu.445569.xyz/live/23017124
+系列,https://yahu.445569.xyz/live/22897556
+巨石强森系列,https://yahu.445569.xyz/live/21059581
+杰森·斯坦森,https://yahu.445569.xyz/live/21059588
+灾难大片,https://yahu.445569.xyz/live/11352887
+怪兽系列 巨蟒和大白鲨来袭,https://yahu.445569.xyz/live/21059554
+高清修复看经典,https://yahu.445569.xyz/live/24380318
+经典的破案爱情,https://yahu.445569.xyz/live/11336578
+汤姆克鲁斯史泰龙,https://yahu.445569.xyz/live/11352959
+大片全明星阵容,https://yahu.445569.xyz/live/21059563
+大片,https://yahu.445569.xyz/live/11352869
+武僧电影·天下武功出少林,https://yahu.445569.xyz/live/11602055
+武侠·帅到飞起,https://yahu.445569.xyz/live/11352897
+枪林弹雨战争片,https://yahu.445569.xyz/live/22295876
+电影最TOP,https://yahu.445569.xyz/live/11774959
+科幻系列 硬核浪漫,https://yahu.445569.xyz/live/11352895
 
-粤语电影,https://huya.zwssina.ccwu.cc?id=11352894
-荒野求生,https://huya.zwssina.ccwu.cc?id=593667
-李连杰功夫大片,https://huya.zwssina.ccwu.cc?id=11342390
-洪金宝系列,https://huya.zwssina.ccwu.cc?id=11342427
-成龙,https://huya.zwssina.ccwu.cc?id=11342386
-刘德华电影,https://huya.zwssina.ccwu.cc?id=11342424
-甄子丹,https://huya.zwssina.ccwu.cc?id=11352935
-电影,https://huya.zwssina.ccwu.cc?id=11352893
-重案六组,https://huya.zwssina.ccwu.cc?id=11336587
-案发现场,https://huya.zwssina.ccwu.cc?id=11352975
-动作悬疑片,https://huya.zwssina.ccwu.cc?id=11602077
-狄仁杰,https://huya.zwssina.ccwu.cc?id=11352958
-谍影重重,https://huya.zwssina.ccwu.cc?id=22889219
-老电影,https://huya.zwssina.ccwu.cc?id=23017124
-系列,https://huya.zwssina.ccwu.cc?id=22897556
-巨石强森系列,https://huya.zwssina.ccwu.cc?id=21059581
-杰森·斯坦森,https://huya.zwssina.ccwu.cc?id=21059588
-灾难大片,https://huya.zwssina.ccwu.cc?id=11352887
-怪兽系列 巨蟒和大白鲨来袭,https://huya.zwssina.ccwu.cc?id=21059554
-高清修复看经典,https://huya.zwssina.ccwu.cc?id=24380318
-经典的破案爱情,https://huya.zwssina.ccwu.cc?id=11336578
-汤姆克鲁斯史泰龙,https://huya.zwssina.ccwu.cc?id=11352959
-大片全明星阵容,https://huya.zwssina.ccwu.cc?id=21059563
-大片,https://huya.zwssina.ccwu.cc?id=11352869
-武僧电影·天下武功出少林,https://huya.zwssina.ccwu.cc?id=11602055
-武侠·帅到飞起,https://huya.zwssina.ccwu.cc?id=11352897
-枪林弹雨战争片,https://huya.zwssina.ccwu.cc?id=22295876
-电影最TOP,https://huya.zwssina.ccwu.cc?id=11774959
-科幻系列 硬核浪漫,https://huya.zwssina.ccwu.cc?id=11352895
+粤语电影,http://103.236.77.86:35455/huya/11352894
+荒野求生,http://103.236.77.86:35455/huya/593667
+李连杰功夫大片,http://103.236.77.86:35455/huya/11342390
+洪金宝系列,http://103.236.77.86:35455/huya/11342427
+成龙,http://103.236.77.86:35455/huya/11342386
+刘德华电影,http://103.236.77.86:35455/huya/11342424
+甄子丹,http://103.236.77.86:35455/huya/11352935
+电影,http://103.236.77.86:35455/huya/11352893
+重案六组,http://103.236.77.86:35455/huya/11336587
+案发现场,http://103.236.77.86:35455/huya/11352975
+动作悬疑片,http://103.236.77.86:35455/huya/11602077
+狄仁杰,http://103.236.77.86:35455/huya/11352958
+谍影重重,http://103.236.77.86:35455/huya/22889219
+老电影,http://103.236.77.86:35455/huya/23017124
+系列,http://103.236.77.86:35455/huya/22897556
+巨石强森系列,http://103.236.77.86:35455/huya/21059581
+杰森·斯坦森,http://103.236.77.86:35455/huya/21059588
+灾难大片,http://103.236.77.86:35455/huya/11352887
+怪兽系列 巨蟒和大白鲨来袭,http://103.236.77.86:35455/huya/21059554
+高清修复看经典,http://103.236.77.86:35455/huya/24380318
+经典的破案爱情,http://103.236.77.86:35455/huya/11336578
+汤姆克鲁斯史泰龙,http://103.236.77.86:35455/huya/11352959
+大片全明星阵容,http://103.236.77.86:35455/huya/21059563
+大片,http://103.236.77.86:35455/huya/11352869
+武僧电影·天下武功出少林,http://103.236.77.86:35455/huya/11602055
+武侠·帅到飞起,http://103.236.77.86:35455/huya/11352897
+枪林弹雨战争片,http://103.236.77.86:35455/huya/22295876
+电影最TOP,http://103.236.77.86:35455/huya/11774959
+科幻系列 硬核浪漫,http://103.236.77.86:35455/huya/11352895
+
+
 
 碎片记,http://live.nctv.top/douyu1.php?id=9412981
 宇宙视界,http://live.nctv.top/douyu1.php?id=9498354
@@ -535,20 +534,20 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 大自然纪录片,https://www.goodiptv.club/douyu/4837387
 粤语电影斗鱼,https://www.goodiptv.club/douyu/1226741
 
-德,https://mursor.ottiptv.cc/huya/16289380
-德英文,https://mursor.ottiptv.cc/huya/21059578
-贝英文,https://mursor.ottiptv.cc/huya/30080237
-史诗级纪录,https://mursor.ottiptv.cc/huya/26355851
+德,https://yahu.445569.xyz/live/16289380
+德英文,https://yahu.445569.xyz/live/21059578
+贝英文,https://yahu.445569.xyz/live/30080237
+史诗级纪录,https://yahu.445569.xyz/live/26355851
 动物世界,https://mursor.ottiptv.cc/yy/1382743138
 奇趣动物,https://mursor.ottiptv.cc/yy/1382735545
 猎食场面,https://mursor.ottiptv.cc/yy/1382749898
 小生物的故事,https://mursor.ottiptv.cc/yy/1382736834
 国内动作电影,https://mursor.ottiptv.cc/yy/1382736804
 
-德,https://isus.cc/php/huya.php?id=16289380
-德英文,https://isus.cc/php/huya.php?id=21059578
-贝英文,https://isus.cc/php/huya.php?id=30080237
-史诗级纪录,https://isus.cc/php/huya.php?id=26355851
+德,http://103.236.77.86:35455/huya/16289380
+德英文,http://103.236.77.86:35455/huya/21059578
+贝英文,http://103.236.77.86:35455/huya/30080237
+史诗级纪录,http://103.236.77.86:35455/huya/26355851
 动物世界,https://judy.livednow.dpdns.org/yy/1382743138
 奇趣动物,https://judy.livednow.dpdns.org/yy/1382735545
 猎食场面,https://judy.livednow.dpdns.org/yy/1382749898
@@ -670,8 +669,4 @@ NOW英超3,http://109.61.81.147:1935/cdn7/767/mpegts?token=1d8c18a3d377f5418d250
 咪咕4K咪视通,http://gslbserv.itv.cmvideo.cn/3000000010000005180/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
 
 测试,#genre#
-寰宇新闻,http://36.235.101.41:8022/udp/230.1.2.252:11111
-寰宇新闻,http://36.235.101.41:8022/udp/224.1.4.51:11111
-广东珠江,http://nn.7x9d.cn/91tv1.php?e=gdzj&line=0
-广东珠江,http://nn.7x9d.cn/91tv1.php?e=gdzj&line=1
-广东珠江,http://nn.7x9d.cn/91tv1.php?e=gdzj&line=2
+
