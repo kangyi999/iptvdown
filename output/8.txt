@@ -22,6 +22,7 @@ HOY TV,https://cc.123.rr.kg/163189/hoy
 翡翠剧集台,http://cc.123.rr.kg/163189/tvbd
 TVB1,http://cc.123.rr.kg/163189/tvb1
 TVB娱乐新闻,http://cc.123.rr.kg/163189/ylxw
+TVB娱乐新闻1,https://hrtv.118138.xyz/hr/VFZC5aix5LmQ5paw6Ze7.m3u8
 华丽翡翠台(新加坡)http://cc.123.rr.kg/163189/jade
 
 澳视澳门,http://cc.123.rr.kg/163189/asam
@@ -43,13 +44,11 @@ TVB娱乐新闻,http://cc.123.rr.kg/163189/ylxw
 凤凰香港0,http://cc.123.rr.kg/163189/fhhk
 凤凰香港2,http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
 
-super识食,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709465.m3u8
-super识叹,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709466.m3u8
-super剧场,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709468.m3u8
 
 
 
 
+NOW新闻台,https://hrtv.118138.xyz/hr/Tm935paw6Ze7.m3u8
 🍧NOW新闻台https://fast.hidns.vip/163189/now
 
 🍧明珠台,https://cdn3.indevs.in/stream/tvb/mzt/
